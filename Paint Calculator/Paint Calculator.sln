@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint Calculator", "Paint Calculator.csproj", "{30D5F737-AD1D-4338-902D-E55653488363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D5F737-AD1D-4338-902D-E55653488363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D5F737-AD1D-4338-902D-E55653488363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D5F737-AD1D-4338-902D-E55653488363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D5F737-AD1D-4338-902D-E55653488363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70669ECC-5D21-4CBE-B861-071C78CF0F66}
+	EndGlobalSection
+EndGlobal

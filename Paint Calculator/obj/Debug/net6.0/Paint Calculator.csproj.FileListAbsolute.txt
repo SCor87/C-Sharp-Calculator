@@ -1,0 +1,42 @@
+C:\Users\60038342\Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.exe
+C:\Users\60038342\Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.deps.json
+C:\Users\60038342\Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.runtimeconfig.json
+C:\Users\60038342\Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfoInputs.cache
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfo.cs
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.csproj.CoreCompileInputs.cache
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\refint\Paint Calculator.dll
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.genruntimeconfig.cache
+C:\Users\60038342\Desktop\Paint Calculator\obj\Debug\net6.0\ref\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.exe
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.deps.json
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.runtimeconfig.json
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\bin\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfoInputs.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfo.cs
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.csproj.CoreCompileInputs.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\refint\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\Paint Calculator.genruntimeconfig.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop\Paint Calculator\obj\Debug\net6.0\ref\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\bin\Debug\net6.0\Paint Calculator.exe
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\bin\Debug\net6.0\Paint Calculator.deps.json
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\bin\Debug\net6.0\Paint Calculator.runtimeconfig.json
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\bin\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\bin\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfoInputs.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfo.cs
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.csproj.CoreCompileInputs.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\refint\Paint Calculator.dll
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.pdb
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\Paint Calculator.genruntimeconfig.cache
+C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\obj\Debug\net6.0\ref\Paint Calculator.dll

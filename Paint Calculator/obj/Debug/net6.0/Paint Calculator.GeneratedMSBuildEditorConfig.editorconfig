@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Paint_Calculator
+build_property.ProjectDir = C:\Users\60038342\OneDrive - Northern Regional College\Level 3\Year 1\Unit 4 - Programming\Assignment 1 - Due Date 16Jan24\Assignment from Desktop - SUBMIT THIS\Paint Calculator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
