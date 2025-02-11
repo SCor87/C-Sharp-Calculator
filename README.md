@@ -1,3 +1,1 @@
-C#
-
-First C# program
+First completed C# program.
