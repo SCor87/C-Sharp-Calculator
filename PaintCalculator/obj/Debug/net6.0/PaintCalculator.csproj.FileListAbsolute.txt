@@ -1,0 +1,15 @@
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.AssemblyInfoInputs.cache
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.AssemblyInfo.cs
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.csproj.CoreCompileInputs.cache
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.sourcelink.json
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/bin/Debug/net6.0/PaintCalculator
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/bin/Debug/net6.0/PaintCalculator.deps.json
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/bin/Debug/net6.0/PaintCalculator.runtimeconfig.json
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/bin/Debug/net6.0/PaintCalculator.dll
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/bin/Debug/net6.0/PaintCalculator.pdb
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.dll
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/refint/PaintCalculator.dll
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.pdb
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/PaintCalculator.genruntimeconfig.cache
+/home/mark/Documents/Programming/C-Sharp-Calculator/PaintCalculator/obj/Debug/net6.0/ref/PaintCalculator.dll

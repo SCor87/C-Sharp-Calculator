@@ -7,9 +7,9 @@ using System.Threading.Tasks;
  * Author: Stephen Cormican
  * Created: 04/01/24
  */
-namespace Paint_Calculator
+namespace PaintCalculator
 {
-    internal class Room_Area_Method
+    internal class RoomAreaMethod
     {
         static void Main()
         {
