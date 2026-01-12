@@ -1,7 +1,7 @@
 # Paint-Cost-Calculator
 
-Calculator for calculating cost of paint for walls
-First full program written as part of an assignment
+Calculator for calculating cost of paint for walls<br/>
+First full program written as part of an assignment<br/>
 Written in C#
 
 ## How to run
